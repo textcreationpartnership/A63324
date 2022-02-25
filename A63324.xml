@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the horrid murder committed upon His Grace, the late Lord Archbishop of St. Andrevvs primate and metropolitan of all Scotland, and one of His Majesties most honourable privy council of that kingdom. With a detection of the lyes published in a late scandalous relation of that murther; and of the pretended occasion thereof. Published by Authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63324</idno>
+            <idno type="STC">Wing T2375A</idno>
+            <idno type="STC">ESTC R221791</idno>
+            <idno type="EEBO-CITATION">99833048</idno>
+            <idno type="PROQUEST">99833048</idno>
+            <idno type="VID">37523</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37523)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2158:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the horrid murder committed upon His Grace, the late Lord Archbishop of St. Andrevvs primate and metropolitan of all Scotland, and one of His Majesties most honourable privy council of that kingdom. With a detection of the lyes published in a late scandalous relation of that murther; and of the pretended occasion thereof. Published by Authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>reprinted, 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sharp, James, 1613-1679 --  Early works to 1800.</term>
+               <term>Murder --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37523:1"/>
+            <!-- PDF PAGE 108 -->
+            <pb facs="tcp:37523:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 108 -->
+            <p>A True Account OF THE HORRID MURDER Committed upon His GRACE, The Late Lord Archbiſhop OF St. ANDREVVS, Primate and Metropolitan of all <hi>SCOTLAND',</hi> and one of His <hi>Majeſties</hi> moſt Honourable Privy Council of that KINGDOM.</p>
+            <p>WITH A DETECTION Of the LYES Publiſhed in a late Scandalous RELATION of that MURTHER; and of the pretended occaſion thereof.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>DUBLIN, Reprinted. 1679.</p>
+            <pb facs="tcp:37523:2"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:37523:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37523:3"/>
+            <!-- PDF PAGE 110 -->
+            <pb facs="tcp:37523:3"/>
+            <!-- PDF PAGE 110 -->
+            <head>A True Account OF THE HORRID MURTHER Of His GRACE The Lord Arch-biſhop of St. <hi>Andrews &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>FTER that GOD had Reſtored to theſe King<g ref="char:EOLhyphen"/>doms their KING and Liberty, (Mercies never to be forgot, till by our Ingratitude for them we have de<g ref="char:EOLhyphen"/>ſerved to be thrown back into thoſe Miſeries, that we have ſo lately eſcaped) Reaſonable men might have concluded, That we would have reſted with much ſa<g ref="char:EOLhyphen"/>tisfaction, under thoſe great bleſſings, for which we had ſo much longed. But that reſtleſs Bigottry, which had in the late Rebellion,
+<pb n="4" facs="tcp:37523:4"/>
+               <!-- PDF PAGE 111 -->diſſolved Monarchy, unhinged our property, and enſlaved our Li<g ref="char:EOLhyphen"/>berties, did ſoon prompt the Execrable Authors of <hi>Naphthali,</hi> and <hi>Jus Popuali,</hi> who in thoſe Books endeavoured to perſwade all men to Maſſacre their Governours and Judges by the miſapplyed Example of holy <hi>Phineas,</hi> and did in Specifick Terms aſſert, That there could be no greater Gift made to <hi>JES<g ref="char:V">Ʋ</g>S CHRIST,</hi> than the ſending the Archbiſhop of St. <hi>Andrews</hi>'s Head in a ſilver Box to the <hi>KING:</hi>
+               <note place="margin">
+                  <hi>Jus populi,</hi> pag. 471, <hi>&amp;</hi> 472.</note> Which Do<g ref="char:EOLhyphen"/>ctrine prevailed with Mr. <hi>James Mitchell,</hi> a Zealous <hi>Naphthalite,</hi> to attempt the Killing of the ſaid Lord Archbiſhop up<g ref="char:EOLhyphen"/>on the chief Street of <hi>Edenburgh,</hi> in face of the Sun, and of the mul<g ref="char:EOLhyphen"/>titude. And he having died owning his Crime as a duty, and o<g ref="char:EOLhyphen"/>thers having writ Books comparing him in this crime to <hi>Sampſon;</hi> Twelve, or more, of the ſame sect, did upon the third day of <hi>May</hi> laſt murther the ſaid Archbiſhop in this enſuing manner.</p>
+            <p>After His Grace had gone from the ſecret Council, where (to aggravate their Grime) he had been pleading moſt fervently for Favours to them, having Lodged at a Village called <hi>Kennoway</hi> in <hi>Fiffe,</hi> upon <hi>Friday</hi> night, the ſecond of <hi>May,</hi> He took his Journey next morning at ten a Clock towards St. <hi>Andrews;</hi> and his Coach-man having diſcovered ſome Horſe-men near <hi>Magus,</hi> (a place near two miles diſtant from St. <hi>Andrews</hi>) advertiſed the Archbiſhop thereof, asking, If he ſhould drive faſter? which His Grace diſ<g ref="char:EOLhyphen"/>charged, becauſe he ſaid he feared no harm: They drawing nearer His Daughter ſeeing Piſtols in their Hands, and them Riding at a great rate, ſhe perſwaded her Father to look out, and he the reup<g ref="char:EOLhyphen"/>on deſired his Coach-man to drive on; who had certainly out-driven them, if one <hi>Balfour</hi> of <hi>Kinloch,</hi> being mounted on a very Fleet Horſe, had not cunningly paſſed the Coach, (into which they had in vain diſcharged very many Shot) and after he found that he could not wound the coach-man, becauſe his coach-whip did fright the ſprightly Horſe, wounded the Poſtillion, and diſabled the foremoſt coach-Horſes: whereupon the reſt coming up, one of them with a Blunderbuſs wounded the Lord Primate in the coach, and others of them called to him to <hi>Come forth Vile Dog, who had betrayed Chriſt and His Church, and to receive what he deſerved for
+<pb n="5" facs="tcp:37523:4"/>
+                  <!-- PDF PAGE 111 -->his Wickedneſs againſt the Kirk of Scotland;</hi> and reproached him with Mr. <hi>James Mitchell</hi>'s death. Whilſt he was in the coach, one run him through with a ſword under his ſhoulder, the reſt pulled him violently out of the coach. His Daughter came out and on her Knees begun to beg mercy to her Father: But they beat her and trampled her down. The Lord Primate with a very great calmneſs, ſaid, <hi>Gentlemen, I know not that ever I injured any of You; and if I did, I promiſe I will make what Reparation you can propoſe. Villain, and</hi> Judas, ſaid they, <hi>and Enemy to God and His People, You ſhall now have the Reward of your Enmity to Gods People:</hi> which words were followed with many mortal wounds, the firſt being a deep one above his Eye. And though he put them in mind that he was a Miniſter, and Pulling off his Cap, ſhewed them his Gray Hairs intreating, <hi>That if they would not ſpare his Life, they would at leaſt al<g ref="char:EOLhyphen"/>low him ſome little time for Prayer;</hi> they returned him no other an<g ref="char:EOLhyphen"/>ſwer, but <hi>That God would not hear ſo baſe a Dog as he was; and for Quarter, they told him, That the Stroaks, which they were then giving, were thoſe which he was to expect.</hi> Notwithſtanding of all which, and of a Shot that pierced his Body above his Right Pap, and of other Stroaks which cut his Hands, whilſt he was holding them up to Heaven in Prayer, he raiſed himſelf upon his Knees, and ut<g ref="char:EOLhyphen"/>tered only theſe words, <hi>God Forgive you all.</hi> After which, by ma<g ref="char:EOLhyphen"/>ny ſtroaks that cut his Skull to pieces, he fell down dead. But ſome of them imagining they had heard him groan, returned, ſaying <hi>That he was of the Nature of a Cat, and ſo they would go back, and give one Stroak more for the Glory of God.</hi> And having ſtirred about his Brains in the Skull with the points of their ſwords, they took an Oath of his ſervants not to reveal their names; and ſo deſiring them to take up their Prieſt, they rode back to <hi>Magus,</hi> crying a<g ref="char:EOLhyphen"/>loud, <hi>That Judas was Kill<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> and from thence made their Eſcape. But God having in an unexpected way furniſhed Probation againſt all who were Preſent, it cannot but with a Dutiful Confidence be expected, that His Divine Majeſty, who is ſo highly offended, will, by the ſame care, bring the Aſſaſſinates themſelves to ſuffer for that Crime.</p>
+            <p>
+               <pb n="6" facs="tcp:37523:5"/>
+               <!-- PDF PAGE 112 -->
+This Narrative, warranted by the Depoſitions of many famous Per<g ref="char:EOLhyphen"/>ſons upon Oath, will diſcover the many falſe Inſinuations expreſſed in a late Relation printed at <hi>London:</hi> For whereas it is pretended, That this Murther proceeded from a Private Iujury done to one of the Aſſaſſinates, the contrary will eaſily appear by theſe Subſequent Conſiderations.</p>
+            <list>
+               <item>Firſt, That this Murthering principle has been Printed and practiſ<g ref="char:EOLhyphen"/>ed by others formerly againſt the ſame Perſon, ſuch as he never knew nor offended.</item>
+               <item>Secondly, It appears by the many Expreſſions aforeſaid that he ſuf<g ref="char:EOLhyphen"/>fered for his Function.</item>
+               <item>Thirdly, Many of the ſame Perſwaſions had foretold it in ſeveral Places; and one of the Murtherers had that morning, after a Sacri<g ref="char:EOLhyphen"/>legious Form of Devotion, held up his Hand and ſworn, <hi>That that Hand ſhould Kill the Arch biſhop;</hi> whereupon his Hoſteſs Kiſſed him. Nor can it be denied, but that he, who commanded the Foot for Mr. <hi>Welſh</hi> upon <hi>Reupar-Law,</hi> (that famous Field Conventicle) owned That their Friends thanked <hi>God</hi> for the Archbiſhops Death, but were ſorry they knew not to whom they owed the Obligation.</item>
+               <item>Fourthly, It is known both by all the Archbiſhops acquaintance, and the preſent low State of his Fortune, that he never uſed any Ri<g ref="char:EOLhyphen"/>g<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur to his Debtors: And one of the Lords of Seſſion, who trans<g ref="char:EOLhyphen"/>acted that inconſiderable Affairs relating to <hi>Hackſtoun,</hi> (on which the ſale Narrative charge this Murther) did declare publickly a<g ref="char:EOLhyphen"/>mongſt his Brethen Judges, That the Archbiſhop had dealt moſt Generouſly with that Miſcreant, who was never a ſervant to his Grace. And how can it be be pretended, in a Nation where no Man was ever murthered for uſing Legal Execution, even in the greateſt Concerns, that the other Eleven would have hazzarded their Lives and Fortunes in Killing a Church Man, and a Privy Councellor, to ſatisfie the uſeleſs Revenge of one of their Number in ſo mean a mat<g ref="char:EOLhyphen"/>ter? And, their not taking his Gold nor Watch, and a conſiderable ſum which lay open enough in the Coach, did convincingly prove, That there was more of Bigottry than of Avarice in that Undertak<g ref="char:EOLhyphen"/>ing.</item>
+               <item>
+                  <pb n="7" facs="tcp:37523:5"/>
+                  <!-- PDF PAGE 112 -->
+Fifthly, It is undeniable, that thoſe of the ſame profeſſion and Way, have lately wounded many of His Majeſties Officers, for putting of his Uncontroverted Laws in Execution; and particularly they con<g ref="char:EOLhyphen"/>trived the Death of the Town Major of <hi>Edenburgh,</hi> and in purſuance of that Deſign, did with many Wounds leave him, and ſome of His Majeſties Souldiers, almoſt dead upon the place, one of them hav<g ref="char:EOLhyphen"/>ing been actually Killed. They alſo at <hi>Loudoun</hi> Killed one of His Ma<g ref="char:EOLhyphen"/>jeſties Souldiers in his Bed, and VVounded and Robbed others of them without the leaſt Provocation; pretending in defence of their Cruelty, That the Souldiers were Enemies to Chriſt, and that they would conclude themſelves Damned, if they paid the Ceſs granted by the Convention of all the Three Eſtates for the neceſſary Defence of the Kingdom.</item>
+               <item>Sixthly, by a <hi>Manifeſto</hi> diſperſed ſome few days before the mur<g ref="char:EOLhyphen"/>ther, His Grace, and all who ſerved the King in <hi>Fiffe,</hi> were threatned with certain Death. All which does but too much juſtifie the Courſes taken in that Kingdom againſt ſuch People, and refutes ſuch as make that paſs for Cruelty, which is but neceſſary, and ſelf-defence: And by all which it appears, that this murther was not occaſioned by Private reſentments, but by the Principles of <hi>Naphthali,</hi> and ſuch as were notorious Ringleaders in that tribe, and their Conventi<g ref="char:EOLhyphen"/>cles.</item>
+            </list>
+            <p>It is likewiſe very obſervable, That the Author of that moſt ſcan<g ref="char:EOLhyphen"/>dalous Narrative, has Impiouſly Lyed, in aſſerting that the Bul<g ref="char:EOLhyphen"/>lets did not pierce the Archbiſhop's Body; inſinuating there by that he was hard: Whereas by a Declaration under the Hands of a Phyſician and three Chyrurgions, (of which <hi>William Borthwick</hi> to whom that Author impudently appeals, is one) is moſt evident that the Archbiſhop's Body was pierced by one of thoſe Shots: The, VVords of which Declaration (ſtill remaining amongſt the VVarrants of the Privy Council) are theſe, <hi>The firſt of theſe Wounds, being two or three Inches below the Right Clavicle, betwixt the Second and third Rib, which was given by a Shot not reaching the Capacity of the Breaſt,</hi> Captain <hi>Carſtaires</hi> likewiſe had no Commiſſion from the Archbiſhop, but from the Privy Council, and Buily <hi>Charmichaell</hi> had no Com<g ref="char:EOLhyphen"/>miſſion
+<pb n="8" facs="tcp:37523:6"/>
+               <!-- PDF PAGE 113 -->from the Privy Council, but from the Earl of <hi>Rothes,</hi> Lord High Chancellor, and Sheriff Principal of <hi>Fiffe,</hi> by inheritance.</p>
+            <p>The Horrour that attends this Fact, the dreadful Events for which it makes way, and the Scandal that it raiſes upon the True Proteſtant Religion, cannot but breed in all Juſt Men, a deteſtation of the Principles from whence it flowed, and an Abhorrence of Thoſe, who endeavour to extenuate it with falſe Pretences.</p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:37523:6"/>
+            <!-- PDF PAGE 113 -->
+         </div>
+      </body>
+   </text>
+</TEI>
